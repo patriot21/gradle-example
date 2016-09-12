@@ -1,0 +1,1 @@
+This project is for showing people how GIT works.

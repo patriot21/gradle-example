@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+uploadArchives {
+    repositories {
+       flatDir {
+           dirs 'dist'
+       }
+    }
+}
