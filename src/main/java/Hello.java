@@ -14,6 +14,5 @@ public class Hello {
 
 		System.out.println("Hello " + name);
 
-		System.out.println("The current date and time is " + new Date());
     }
 }
